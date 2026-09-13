@@ -1,6 +1,6 @@
-# 📊 E-Commerce Sales Analytics | End-to-End Data Analyst Project
+#  E-Commerce Sales Analytics | End-to-End Data Analyst Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an end-to-end **E-Commerce Sales Analytics** solution developed using **SQL, Python, and Power BI**. The project demonstrates the complete data analytics lifecycle, starting from raw data import and SQL-based analysis to Python data cleaning, exploratory data analysis (EDA), and interactive dashboard development in Power BI.
 
@@ -8,7 +8,7 @@ The objective is to analyze sales performance, customer behavior, and product pe
 
 ---
 
-# 🎯 Business Objectives
+#  Business Objectives
 
 This project aims to answer the following business questions:
 
@@ -21,7 +21,7 @@ This project aims to answer the following business questions:
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 | Tool | Purpose |
 |------|----------|
@@ -34,7 +34,7 @@ This project aims to answer the following business questions:
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 The dataset contains approximately **30,000 e-commerce transactions**.
 
@@ -74,7 +74,7 @@ The dataset contains approximately **30,000 e-commerce transactions**.
 
 ---
 
-# 🚀 Project Workflow
+#  Project Workflow
 
 ```
 Raw Excel Dataset
@@ -100,11 +100,11 @@ Business Insights
 
 ---
 
-# 🗄️ SQL Data Analysis
+#  SQL Data Analysis
 
 The raw dataset was first imported into **MySQL**, where data validation, cleaning, and business analysis were performed.
 
-## SQL Tasks Performed
+ SQL Tasks Performed
 
 ### Data Validation
 
@@ -164,22 +164,8 @@ Performed SQL analysis for:
 
 ---
 
-# 📚 SQL Concepts Used
 
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- HAVING
-- Aggregate Functions
-- CASE WHEN
-- Subqueries
-- Window Functions
-- Views
-
----
-
-# 🧹 Python Data Cleaning
+#  Python Data Cleaning
 
 After SQL analysis, the cleaned dataset was imported into Python using SQLAlchemy.
 
@@ -218,7 +204,7 @@ Performed EDA using **Matplotlib** and **Seaborn**.
 
 ---
 
-# 📐 Power BI Data Modeling & DAX
+#  Power BI Data Modeling & DAX
 
 After importing the cleaned dataset into Power BI, a semantic data model was created to build interactive dashboards and business KPIs.
 
@@ -310,7 +296,7 @@ Evaluates product performance using revenue, profit, quantity sold, brands, and 
 
 ---
 
-# 💡 Key Business Insights
+#  Key Business Insights
 
 - Revenue exceeded **11 Million**.
 - Electronics is the highest-performing category.
@@ -321,97 +307,31 @@ Evaluates product performance using revenue, profit, quantity sold, brands, and 
 - Social Media is the highest-performing traffic source.
 - Laptop is the best-performing product subcategory.
 
----
+#Skills Demonstrated
+SQL
+Data Cleaning
+Data Validation
+Business Analysis
+Views
+Window Functions
+Aggregate Functions
+Python
+Pandas
+Data Cleaning
+Feature Engineering
+Exploratory Data Analysis
+Power BI
+Data Modeling
+DAX Measures
+Power Query
+Interactive Dashboards
+KPI Cards
+Slicers
+Navigation Buttons
+Business Insights
 
-# 📸 Dashboard Preview
 
-## Executive Summary
-
-![Executive Summary](Dashboard_Images/executive_summary.jpg)
-
-## Sales Analysis
-
-![Sales Analysis](Dashboard_Images/sales_analysis.jpg)
-
-## Customer Analysis
-
-![Customer Analysis](Dashboard_Images/customer_analysis.jpg)
-
-## Product Analysis
-
-![Product Analysis](Dashboard_Images/product_analysis.jpg)
-
----
-
-## Project Demonstration
-
-https://github.com/user-attachments/assets/181e5c29-cb02-4a8f-bf6a-79eeec645327
-
----
-
-# 📁 Project Structure
-
-```
-Ecommerce-Sales-Analytics/
-│
-├── Dataset/
-│   ├── ecommerce_orders_raw_dataset.csv
-│   └── Ecommerce_DB_Cleaned.csv
-│
-├── SQL/
-│   ├── ecommerce_db.sql
-│
-├── Python/
-│   ├── Ecommerce_DA.ipynb
-│
-├── PowerBI/
-│   ├── Ecommerce_Analysis.pbix
-│   └── Ecommerce_Analysis.pdf
-│
-├── Dashboard_Images/
-│   ├── executive_summary.jpg
-│   ├── sales_analysis.jpg
-│   ├── customer_analysis.jpg
-│   └── product_analysis.jpg
-│
-├── README.md
-└── requirements.txt
-```
-
----
-
-# 🎯 Skills Demonstrated
-
-### SQL
-
-- Data Cleaning
-- Data Validation
-- Business Analysis
-- Views
-- Window Functions
-- Aggregate Functions
-
-### Python
-
-- Pandas
-- Data Cleaning
-- Feature Engineering
-- Exploratory Data Analysis
-
-### Power BI
-
-- Data Modeling
-- DAX Measures
-- Power Query
-- Interactive Dashboards
-- KPI Cards
-- Slicers
-- Navigation Buttons
-- Business Insights
-
----
-
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 - Sales Forecasting
 - Customer Churn Analysis
@@ -420,18 +340,7 @@ Ecommerce-Sales-Analytics/
 - Time Intelligence (YTD, MTD, QTD)
 - Drill-through Reports
 
----
 
-# 👨‍💻 Author
 
-**Suji Prasanth**
 
-### Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/suji-prasanth
-- GitHub: https://github.com/sujiprasanth
-- Portfolio: https://sujiprasanth.netlify.app/
-
----
-
-⭐ If you found this project useful, feel free to star the repository!
